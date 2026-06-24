@@ -1,2 +1,8 @@
+[webservers]
 serverone@192.168.56.102
+
+[db_servers]
 servertwo@192.168.56.101
+
+[file_servers]
+nicole@192.168.56.104
